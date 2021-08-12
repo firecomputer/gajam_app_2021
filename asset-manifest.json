@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/firecomputer.github.io/gajam_app_2021/static/js/main.4eaf2f57.chunk.js",
+    "main.js.map": "/firecomputer.github.io/gajam_app_2021/static/js/main.4eaf2f57.chunk.js.map",
+    "runtime-main.js": "/firecomputer.github.io/gajam_app_2021/static/js/runtime-main.8a733966.js",
+    "runtime-main.js.map": "/firecomputer.github.io/gajam_app_2021/static/js/runtime-main.8a733966.js.map",
+    "static/js/2.fef1ed6d.chunk.js": "/firecomputer.github.io/gajam_app_2021/static/js/2.fef1ed6d.chunk.js",
+    "static/js/2.fef1ed6d.chunk.js.map": "/firecomputer.github.io/gajam_app_2021/static/js/2.fef1ed6d.chunk.js.map",
+    "index.html": "/firecomputer.github.io/gajam_app_2021/index.html",
+    "static/js/2.fef1ed6d.chunk.js.LICENSE.txt": "/firecomputer.github.io/gajam_app_2021/static/js/2.fef1ed6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a733966.js",
+    "static/js/2.fef1ed6d.chunk.js",
+    "static/js/main.4eaf2f57.chunk.js"
+  ]
+}

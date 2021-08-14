@@ -4,9 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+.env
+/src/YoutubeApi.js
 
 # testing
 /coverage
+/wow.html
 
 # production
 /build
@@ -21,3 +24,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/components/background.jpg

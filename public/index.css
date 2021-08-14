@@ -1,0 +1,20 @@
+.background-image {
+    position: absolute;
+    filter:blur(10px);
+    z-index: -1;
+}
+
+
+.mar-5 {
+    margin:10%;
+    margin-bottom: 2%;
+}
+
+.mar-1 {
+    margin:2%;
+    margin-left:10%;
+}
+
+.button2 {
+    width:40%;
+}

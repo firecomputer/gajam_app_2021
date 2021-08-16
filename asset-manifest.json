@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/gajam_app_2021/static/js/main.b93dcd2d.chunk.js",
-    "main.js.map": "/gajam_app_2021/static/js/main.b93dcd2d.chunk.js.map",
-    "runtime-main.js": "/gajam_app_2021/static/js/runtime-main.8655a676.js",
-    "runtime-main.js.map": "/gajam_app_2021/static/js/runtime-main.8655a676.js.map",
-    "static/js/2.b09351f9.chunk.js": "/gajam_app_2021/static/js/2.b09351f9.chunk.js",
-    "static/js/2.b09351f9.chunk.js.map": "/gajam_app_2021/static/js/2.b09351f9.chunk.js.map",
-    "index.html": "/gajam_app_2021/index.html",
-    "static/js/2.b09351f9.chunk.js.LICENSE.txt": "/gajam_app_2021/static/js/2.b09351f9.chunk.js.LICENSE.txt",
-    "static/media/background.ba4c9de4.jpg": "/gajam_app_2021/static/media/background.ba4c9de4.jpg"
+    "main.js": "/gejam_app_2021/static/js/main.631a1d96.chunk.js",
+    "main.js.map": "/gejam_app_2021/static/js/main.631a1d96.chunk.js.map",
+    "runtime-main.js": "/gejam_app_2021/static/js/runtime-main.c5806b9c.js",
+    "runtime-main.js.map": "/gejam_app_2021/static/js/runtime-main.c5806b9c.js.map",
+    "static/js/2.8a249a70.chunk.js": "/gejam_app_2021/static/js/2.8a249a70.chunk.js",
+    "static/js/2.8a249a70.chunk.js.map": "/gejam_app_2021/static/js/2.8a249a70.chunk.js.map",
+    "index.html": "/gejam_app_2021/index.html",
+    "static/js/2.8a249a70.chunk.js.LICENSE.txt": "/gejam_app_2021/static/js/2.8a249a70.chunk.js.LICENSE.txt",
+    "static/media/background.ba4c9de4.jpg": "/gejam_app_2021/static/media/background.ba4c9de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8655a676.js",
-    "static/js/2.b09351f9.chunk.js",
-    "static/js/main.b93dcd2d.chunk.js"
+    "static/js/runtime-main.c5806b9c.js",
+    "static/js/2.8a249a70.chunk.js",
+    "static/js/main.631a1d96.chunk.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gejam_app_2021/static/js/main.631a1d96.chunk.js",
-    "main.js.map": "/gejam_app_2021/static/js/main.631a1d96.chunk.js.map",
+    "main.js": "/gejam_app_2021/static/js/main.280d07dd.chunk.js",
+    "main.js.map": "/gejam_app_2021/static/js/main.280d07dd.chunk.js.map",
     "runtime-main.js": "/gejam_app_2021/static/js/runtime-main.c5806b9c.js",
     "runtime-main.js.map": "/gejam_app_2021/static/js/runtime-main.c5806b9c.js.map",
     "static/js/2.8a249a70.chunk.js": "/gejam_app_2021/static/js/2.8a249a70.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.c5806b9c.js",
     "static/js/2.8a249a70.chunk.js",
-    "static/js/main.631a1d96.chunk.js"
+    "static/js/main.280d07dd.chunk.js"
   ]
 }
